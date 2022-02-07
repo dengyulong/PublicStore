@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T03:21:26.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="bopz4q7u5pkdeO7ILs87" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-07T05:42:47.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="Fx5t2X73GxtkkiJnf4v_" version="16.2.6" type="github" pages="2">
   <diagram id="0jRuPJU61brVP93ckLQP" name="目标实现">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,9 +78,6 @@
       <root>
         <mxCell id="mF6xE5Q_8YxUSGwWKJUr-0" />
         <mxCell id="mF6xE5Q_8YxUSGwWKJUr-1" parent="mF6xE5Q_8YxUSGwWKJUr-0" />
-        <mxCell id="-6jM3vXqGq3wX01q758Z-0" value="早上（黄金时间）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-7" value="&lt;b&gt;时间构造&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
           <mxGeometry x="20" y="10" width="370" height="300" as="geometry" />
         </mxCell>
@@ -103,19 +100,22 @@
           <mxGeometry x="540" y="600" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-18" value="生活" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="280" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="290" y="440" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-19" value="工作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="220" y="620" width="80" height="50" as="geometry" />
+          <mxGeometry x="240" y="630" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-20" value="习惯" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="150" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="150" y="535" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-21" value="早上(黄金时间)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="160" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="150" y="440" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-22" value="锻炼" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="280" y="550" width="80" height="50" as="geometry" />
+          <mxGeometry x="334" y="545" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6jM3vXqGq3wX01q758Z-27" value="目标" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
+          <mxGeometry x="240" y="530" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
