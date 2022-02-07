@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T05:57:01.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="2-XFZgYPvoTYEIW2C8Ma" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-07T06:00:09.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="y60Gid4YAdp55FJXMahv" version="16.2.6" type="github" pages="2">
   <diagram id="0jRuPJU61brVP93ckLQP" name="目标实现">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,50 +78,50 @@
       <root>
         <mxCell id="mF6xE5Q_8YxUSGwWKJUr-0" />
         <mxCell id="mF6xE5Q_8YxUSGwWKJUr-1" parent="mF6xE5Q_8YxUSGwWKJUr-0" />
-        <mxCell id="-6jM3vXqGq3wX01q758Z-7" value="&lt;b&gt;时间构造&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="20" y="10" width="370" height="300" as="geometry" />
+        <mxCell id="-6jM3vXqGq3wX01q758Z-7" value="&lt;b&gt;时间构造&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;sketch=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
+          <mxGeometry x="70" y="90" width="670" height="320" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-8" value="增加新的记忆" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;shadow=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="400" y="445" width="310" height="210" as="geometry" />
+          <mxGeometry x="410" y="145" width="310" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-9" value="新的活动" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="456" y="485" width="80" height="50" as="geometry" />
+          <mxGeometry x="466" y="185" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-10" value="新的人" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="586" y="585" width="80" height="50" as="geometry" />
+          <mxGeometry x="596" y="285" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-11" value="新的知识" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="586" y="485" width="80" height="50" as="geometry" />
+          <mxGeometry x="596" y="185" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-12" value="新的体验....." style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;shadow=0;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="526" y="535" width="80" height="50" as="geometry" />
+          <mxGeometry x="536" y="235" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-17" value="旅行" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="456" y="585" width="80" height="50" as="geometry" />
+          <mxGeometry x="466" y="285" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-18" value="生活" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="200" y="445" width="80" height="50" as="geometry" />
+          <mxGeometry x="210" y="145" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-19" value="工作" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="260" y="495" width="80" height="50" as="geometry" />
+          <mxGeometry x="270" y="195" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-20" value="习惯" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="80" y="535" width="80" height="50" as="geometry" />
+          <mxGeometry x="90" y="235" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-21" value="早上(黄金时间)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="100" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="160" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-22" value="锻炼" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="100" y="605" width="80" height="50" as="geometry" />
+          <mxGeometry x="110" y="305" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6jM3vXqGq3wX01q758Z-27" value="目标" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="180" y="535" width="80" height="50" as="geometry" />
+          <mxGeometry x="180" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7VOSGXpOEoM0LK1E6JqM-0" value="花钱购买别人的时间" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="280" y="570" width="80" height="50" as="geometry" />
+          <mxGeometry x="290" y="270" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7VOSGXpOEoM0LK1E6JqM-1" value="自动化运行" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="mF6xE5Q_8YxUSGwWKJUr-1">
-          <mxGeometry x="210" y="635" width="80" height="50" as="geometry" />
+          <mxGeometry x="210" y="305" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
