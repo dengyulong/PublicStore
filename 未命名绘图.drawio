@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T10:02:01.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="GfSUud2XW69C_JNVmPMd" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T10:02:21.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="fnOJndTak5F4wzIBX9FR" version="16.5.3" type="github">
   <diagram id="ZKx9zjy7iOst4Df-iox1" name="第 1 页">
     <mxGraphModel dx="1038" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="bndzpAf4vowpiUw_1lPS-59" value="知足常乐" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bndzpAf4vowpiUw_1lPS-60" value="有目标" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="75" y="440" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
