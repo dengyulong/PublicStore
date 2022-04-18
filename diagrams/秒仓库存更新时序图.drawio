@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:49:54.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="VYHoA5O4uQVHudyPJa7r" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T05:50:29.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="s8oLeOdLctiWLQpllaX0" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,11 +160,17 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-55" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-43" target="xFO0b5OJ6ieHi_bnWnwS-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-43" value="查找库存记录是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="504.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-50" value="新增库存流水记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="395" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-54" value="更新库存记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="640" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
