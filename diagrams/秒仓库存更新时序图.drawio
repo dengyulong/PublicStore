@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T03:01:44.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Vn74rSySOizYXVJiLzH8" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T03:16:34.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="zl1WwGtC2qlMYb4FckJ8" version="17.4.3" type="github">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1221" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-15" value="ContentController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="100" height="300" as="geometry" />
+          <mxGeometry x="190" y="100" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-15">
           <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
@@ -17,16 +17,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-17" value="ConUpdateServiceImpl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="70" width="140" height="300" as="geometry" />
+          <mxGeometry x="400" y="100" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-17">
           <mxGeometry x="65" y="90" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-20" value="ConStandHandler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="70" width="140" height="300" as="geometry" />
+          <mxGeometry x="740" y="100" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-20">
           <mxGeometry x="65" y="90" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-23" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry y="100" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-23">
+          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-31" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-33" value="&lt;span&gt;调用方&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-23">
+          <mxGeometry x="35" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
