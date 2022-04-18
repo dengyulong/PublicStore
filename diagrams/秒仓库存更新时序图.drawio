@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T03:37:41.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="elI692aYWwce4pAcRGYy" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T03:38:21.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rmxpDLq_emsoVzCz2vcx" version="17.4.3" type="github">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="865" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,12 @@
               <mxPoint x="105" y="130" />
             </Array>
             <mxPoint x="75" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-65" value="3：库存更新" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-40" target="Z9LiHGhNITF9_QhwEXv6-41">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="180" as="sourcePoint" />
+            <mxPoint x="150" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9LiHGhNITF9_QhwEXv6-41" value="ConUpdateServiceImpl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
