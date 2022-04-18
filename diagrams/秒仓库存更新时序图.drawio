@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:26:18.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Unh3RXVyLjuMBfBczO1a" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:26:38.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="bkdfTHYoa3Kn6WPPq60X" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,11 +102,6 @@
         </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-12" value="调用方" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xFO0b5OJ6ieHi_bnWnwS-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="270.0000000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-13" target="xFO0b5OJ6ieHi_bnWnwS-117">
           <mxGeometry relative="1" as="geometry" />
@@ -279,6 +274,9 @@
         </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-115" value="返回响应内容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194.95" y="1340" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-117" target="xFO0b5OJ6ieHi_bnWnwS-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-117" value="提交库存更新请求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199.95" y="210" width="120" height="50" as="geometry" />
