@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T03:18:19.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3z5Er9Z_lZzQgFKLYVT7" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T03:28:12.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="JIGXgpFBAtcCs5bZsT4w" version="17.4.3" type="github">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1221" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,21 @@
             <mxPoint x="55" y="220" as="sourcePoint" />
             <mxPoint x="230" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9LiHGhNITF9_QhwEXv6-40" target="Z9LiHGhNITF9_QhwEXv6-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-40" value="ContentController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9LiHGhNITF9_QhwEXv6-41" target="Z9LiHGhNITF9_QhwEXv6-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-41" value="ConUpdateServiceImpl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9LiHGhNITF9_QhwEXv6-43" value="ConStandHandler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="140" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
