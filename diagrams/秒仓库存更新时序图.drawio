@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T05:50:29.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="s8oLeOdLctiWLQpllaX0" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T05:53:16.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="vG3ZxCcMVYHbbRJMhyII" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,8 +169,35 @@
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-50" value="新增库存流水记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="395" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-54" target="xFO0b5OJ6ieHi_bnWnwS-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-54" target="xFO0b5OJ6ieHi_bnWnwS-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-54" value="更新库存记录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="640" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-57" target="xFO0b5OJ6ieHi_bnWnwS-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="790" />
+              <mxPoint x="100" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-61" value="处理目标库位" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xFO0b5OJ6ieHi_bnWnwS-60">
+          <mxGeometry x="-0.171" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-62" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xFO0b5OJ6ieHi_bnWnwS-60">
+          <mxGeometry x="-0.8987" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-57" value="是否有传目标库位" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
