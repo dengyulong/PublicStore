@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:07:56.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="CXojWH6bMs7PiB6yPtsI" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:08:28.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="EbvI3nHwC-6KZ1OUdQOJ" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,8 +251,20 @@
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-79" value="记录库存事务（异步）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194.95" y="1220" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-81" target="xFO0b5OJ6ieHi_bnWnwS-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-81" value="记录库存变化（异步）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194.95" y="1310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFO0b5OJ6ieHi_bnWnwS-83" target="xFO0b5OJ6ieHi_bnWnwS-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-83" value="记录库龄信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194.95" y="1390" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-85" value="SKU库存更新" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194.95" y="1480" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
