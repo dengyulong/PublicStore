@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:02:58.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="pVlgzKtd3JcmmcmM1_QP" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:03:14.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="7wnlGKg29wHI8qOvNlkk" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-61" value="处理目标库位" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xFO0b5OJ6ieHi_bnWnwS-60">
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-61" value="处理目标库位库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xFO0b5OJ6ieHi_bnWnwS-60">
           <mxGeometry x="-0.171" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
