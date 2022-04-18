@@ -1,98 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:34:58.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="FoD_Jn-jDSnKqVVB_-2y" version="17.4.3" type="github" pages="2">
-  <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
-    <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-40" value="ContentController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="140" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-40">
-          <mxGeometry x="65" y="80" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-64" value="2：入参合法性校验" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="75" y="117" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="105" y="117" />
-            </Array>
-            <mxPoint x="75" y="137" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-65" value="3：库存更新" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-40" source="Z9LiHGhNITF9_QhwEXv6-62">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="80" y="170" as="sourcePoint" />
-            <mxPoint x="269.5000000000002" y="172" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-41" value="ConUpdateService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="140" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-41">
-          <mxGeometry x="65" y="170" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-68" value="4：封装List&amp;lt;AccountDto&amp;gt;对象" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" target="Z9LiHGhNITF9_QhwEXv6-66" parent="Z9LiHGhNITF9_QhwEXv6-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="75" y="200" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="105" y="200" />
-              <mxPoint x="105" y="210" />
-            </Array>
-            <mxPoint x="77" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-41">
-          <mxGeometry x="65" y="280" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-77" value="6：库存处理" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-41" target="Z9LiHGhNITF9_QhwEXv6-43">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="70" y="310" as="sourcePoint" />
-            <mxPoint x="150" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-43" value="ConStandHandler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="180" width="140" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z9LiHGhNITF9_QhwEXv6-43">
-          <mxGeometry x="65" y="280" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-83" value="7：库存定位" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="Z9LiHGhNITF9_QhwEXv6-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="75" y="324" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="105" y="324" />
-            </Array>
-            <mxPoint x="80" y="343.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-48" value="调用方" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="180" width="40" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-59" value="1：提交库存更新请求ConReqDto" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="Z9LiHGhNITF9_QhwEXv6-48" target="Z9LiHGhNITF9_QhwEXv6-62">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="90" y="290" as="sourcePoint" />
-            <mxPoint x="170" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-70" value="ContentLogService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="185" width="140" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-71" value="5：异步保存库存操作日志" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="Z9LiHGhNITF9_QhwEXv6-70">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="460" y="420" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z9LiHGhNITF9_QhwEXv6-84" value="ContentService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="180" width="140" height="300" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-qJqIuTEExH9c5WlM6fF" name="第 2 页">
+<mxfile host="app.diagrams.net" modified="2022-04-18T08:25:39.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="nKpy3ZW5q-FAZbBzbbIN" version="17.4.3" type="github" pages="2">
+  <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -281,6 +188,14 @@
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-117" value="提交库存更新请求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="199.95" y="210" width="120" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fDC7FrceW9h3WHZQo8Kr" name="库存删除处理流程图">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
