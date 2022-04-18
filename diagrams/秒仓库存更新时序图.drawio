@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:20:37.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kgX9jmknKY0L_GunPw6v" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:21:20.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="IKfoevmeiY9JhBrr2qin" version="17.4.3" type="github" pages="2">
   <diagram id="rUN5KzVGXAF8q-OH2IqZ" name="第 1 页">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="第 2 页">
-    <mxGraphModel dx="2424" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,11 +248,11 @@
         <mxCell id="xFO0b5OJ6ieHi_bnWnwS-81" value="记录库存变化（异步）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145.05" y="1250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-83" value="记录库龄信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-83" value="记录库龄信息（异步）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="305.05" y="1250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-85" value="SKU库存更新" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="465.00000000000006" y="1250" width="120" height="50" as="geometry" />
+        <mxCell id="xFO0b5OJ6ieHi_bnWnwS-85" value="SKU库存更新（异步）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1250" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
