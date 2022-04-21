@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:02:23.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Guc5jypQOOZckxzW-f9V" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:04:09.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="An8_Qj-d48-WwHRomXqb" version="17.4.3" type="github" pages="3">
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
         <mxCell id="u5gEKiPRLLoYnRYthEL6-60" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="210" y="95" width="630" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-3" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-3" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="82" y="95" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-4" value="PLC控制中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
@@ -440,7 +440,7 @@
             <mxPoint x="660" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="82" y="190" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
