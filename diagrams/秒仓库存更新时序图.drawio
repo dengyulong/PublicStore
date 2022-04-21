@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T09:48:48.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="yLbcwPDeJbxlSO6UFTvX" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T09:49:44.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ExflpcKxCFLUpWhWDKeA" version="17.4.3" type="github" pages="3">
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,13 +292,13 @@
           <mxGeometry x="140" y="550" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-60" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="450" width="630" height="60" as="geometry" />
+          <mxGeometry x="140" y="455" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-2" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-26" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-3" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="12" y="450" width="90" height="60" as="geometry" />
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-3" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="12" y="455" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-4" value="PLC控制中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="154" y="1030" width="384" height="60" as="geometry" />
@@ -411,9 +411,6 @@
         <mxCell id="u5gEKiPRLLoYnRYthEL6-57" value="日志记录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="407" y="760" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-58" value="访问层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="140" y="450" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-62" value="服务中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="437" y="657.5" width="60" height="20" as="geometry" />
         </mxCell>
@@ -452,7 +449,7 @@
             <mxPoint x="590" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="12" y="550" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
