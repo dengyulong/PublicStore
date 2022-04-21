@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:05:35.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="BvEKHV17l9tps4Majjm6" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:07:22.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="HGbhLb5u9feh_nYhGn1Q" version="17.4.3" type="github" pages="3">
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,10 +288,10 @@
         <mxCell id="u5gEKiPRLLoYnRYthEL6-63" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="320" width="383" height="296.5" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="630" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-60" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-60" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#1BA1E2;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="95" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-3" value="访问层" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
@@ -324,22 +324,22 @@
         <mxCell id="u5gEKiPRLLoYnRYthEL6-19" value="Ping心跳检测" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="702" y="557.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-23" value="工作台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-23" value="工作台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="245" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-24" value="设备监控" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-24" value="设备监控" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="347" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-25" value="库存查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-25" value="库存查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-26" value="出库查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-26" value="出库查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="552" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-27" value="系统设置" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-27" value="系统设置" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="655" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5gEKiPRLLoYnRYthEL6-28" value="登录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="u5gEKiPRLLoYnRYthEL6-28" value="登录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="757" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-34" value="业务服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
@@ -440,7 +440,7 @@
             <mxPoint x="660" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="R9iqnsAAHJDn-9Tit3Qu-24" value="认证中心" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="82" y="190" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
