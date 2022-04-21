@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T09:17:54.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="FuzwbWL56JtB7Jn1ntaP" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T09:18:23.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="4BQ5z70rXkBa1iBgEeEe" version="17.4.3" type="github" pages="3">
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u5gEKiPRLLoYnRYthEL6-65" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="152" y="1036" width="558" height="180" as="geometry" />
+          <mxGeometry x="154" y="1030" width="558" height="180" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-64" value="API" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="580" y="680" width="130" height="300" as="geometry" />
@@ -373,19 +373,19 @@
           <mxGeometry x="284" y="845" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-43" value="阿里云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="154" y="1060" width="111" height="115" as="geometry" />
+          <mxGeometry x="193" y="1040" width="111" height="115" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-5" value="WMS&lt;br&gt;（mysql）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1125" width="60" height="80" as="geometry" />
+          <mxGeometry x="234" y="1105" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-44" value="本地物理机" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1101" width="120" height="100" as="geometry" />
+          <mxGeometry x="479" y="1081" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-6" value="ACS&lt;br&gt;（mysql）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1086" width="60" height="80" as="geometry" />
+          <mxGeometry x="514" y="1066" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-7" value="WCS&lt;br&gt;（mysql）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1086" width="60" height="80" as="geometry" />
+          <mxGeometry x="574" y="1066" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-47" value="基础设施" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="10" y="990" width="60" height="20" as="geometry" />
