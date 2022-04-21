@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T08:33:35.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="0g5lCUt77NLDg_3-G_zA" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T08:34:26.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZDVgRmKB6iqpppilOtl-" version="17.4.3" type="github" pages="3">
   <diagram id="-qJqIuTEExH9c5WlM6fF" name="库存更新处理流程图">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,25 +328,25 @@
           <mxGeometry x="64" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-21" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="460" height="80" as="geometry" />
+          <mxGeometry x="110" y="50" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-23" value="工作台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="64" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-24" value="设备监控" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-25" value="库存查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-26" value="出库查询" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="390" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-27" value="系统设置" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="500" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5gEKiPRLLoYnRYthEL6-28" value="登录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="610" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
