@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:11:30.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="VszDOKV5skPqGZqBGDGr" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:15:00.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="orvJu6OTiga9FDPwFQkJ" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
     <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="90" width="120" height="200" as="geometry" />
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owut5gFH1ZOMrYDUWBN5-8" target="VbcEAXWBeEiYhWNy1sMn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-8" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="100" height="250" as="geometry" />
         </mxCell>
         <mxCell id="owut5gFH1ZOMrYDUWBN5-1" value="手机端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="150" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owut5gFH1ZOMrYDUWBN5-3" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owut5gFH1ZOMrYDUWBN5-5" value="电子秤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="190" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owut5gFH1ZOMrYDUWBN5-7" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-1" target="VbcEAXWBeEiYhWNy1sMn-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-1" value="Nginx负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="95" width="50" height="195" as="geometry" />
+          <mxGeometry x="180" y="87.5" width="50" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-3" value="API GateWay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="87.5" width="50" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="230" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
