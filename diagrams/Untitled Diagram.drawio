@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:10:22.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="cXSZoALk4SVXjaDuitAx" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:11:30.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="VszDOKV5skPqGZqBGDGr" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
-    <mxGraphModel dx="745" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="120" height="200" as="geometry" />
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-1" value="手机端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="90" width="70" height="30" as="geometry" />
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-1" value="手机端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-3" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="50" width="70" height="30" as="geometry" />
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-3" value="PC端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-5" value="电子秤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="130" width="70" height="30" as="geometry" />
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-5" value="电子秤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owut5gFH1ZOMrYDUWBN5-7" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="170" width="70" height="30" as="geometry" />
+        <mxCell id="owut5gFH1ZOMrYDUWBN5-7" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-1" value="Nginx负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="95" width="50" height="195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
