@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:22:16.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="iDkzqwGGoRrZR9qXTWQI" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:24:27.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="snPAH73BF-CyyYnbRtkl" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
     <mxGraphModel dx="1117" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VbcEAXWBeEiYhWNy1sMn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="135" as="geometry" />
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-20" value="API路由网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="120" height="290" as="geometry" />
         </mxCell>
         <mxCell id="owut5gFH1ZOMrYDUWBN5-8" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="110" width="190" height="150" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="25" y="217.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-3" value="API GateWay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="80" height="47.5" as="geometry" />
+          <mxGeometry x="580" y="208.75" width="80" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-6" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="180" width="70" height="30" as="geometry" />
@@ -62,7 +62,19 @@
           <mxGeometry x="390" y="154" width="80" height="62" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-21" value="认证/限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="212.5" width="80" height="47.5" as="geometry" />
+          <mxGeometry x="580" y="122.5" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.207;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-10" target="VbcEAXWBeEiYhWNy1sMn-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="160" as="sourcePoint" />
+            <mxPoint x="540" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="310" as="sourcePoint" />
+            <mxPoint x="560" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
