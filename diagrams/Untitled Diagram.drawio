@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:36:21.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="IpnDMpq3vtftgT9aCh-o" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:43:55.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="pxlkpxX9NtV-jBZ6_Zqb" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
-    <mxGraphModel dx="1303" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,16 +116,34 @@
           <mxGeometry x="827" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-43" value="采购服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-44" value="仓库服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-45" value="财务服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-46" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="410" width="323" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-48" value="Feign" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VbcEAXWBeEiYhWNy1sMn-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="250" as="sourcePoint" />
+            <mxPoint x="1000" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-50" value="Feign" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-45" target="VbcEAXWBeEiYhWNy1sMn-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="380" as="sourcePoint" />
+            <mxPoint x="990" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-51" value="Feign" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.492;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VbcEAXWBeEiYhWNy1sMn-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="886" y="410" as="sourcePoint" />
+            <mxPoint x="886.04" y="371.02" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
