@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T13:19:11.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="v6wf4H5crw4MEF40iQge" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T13:19:55.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="ubAjjSAkEUzhkLtYE4yT" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
-    <mxGraphModel dx="978" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-46" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="175" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VbcEAXWBeEiYhWNy1sMn-57" value="注册" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55" target="VbcEAXWBeEiYhWNy1sMn-40" edge="1">
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-57" value="服务注册与发现" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55" target="VbcEAXWBeEiYhWNy1sMn-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="170" as="sourcePoint" />
             <mxPoint x="1040" y="130" as="targetPoint" />
