@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T13:28:55.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="ffGQKDuz8Duu5XUGnGxz" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T13:35:24.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="vDIbJ6wX-e7FLVQW6HHF" version="18.2.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
-    <mxGraphModel dx="920" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vgddumj_CpOu_7igaWPx-25" value="基&lt;br&gt;础&lt;br&gt;组&lt;br&gt;件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="555" y="420" width="675" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vgddumj_CpOu_7igaWPx-20" value="监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="30" width="120" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务集群&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="800" y="154.37" width="320" height="165.63" as="geometry" />
         </mxCell>
@@ -138,29 +144,29 @@
         <mxCell id="vgddumj_CpOu_7igaWPx-1" value="请求过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="236.25" width="80" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-3" value="消息服务&lt;br&gt;RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="40" width="90" height="40" as="geometry" />
+        <mxCell id="vgddumj_CpOu_7igaWPx-3" value="消息中心&lt;br&gt;RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-4" value="分布式调度&lt;br&gt;XXJOB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="96.25" width="90" height="40" as="geometry" />
+          <mxGeometry x="1010" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-5" value="搜索引擎&lt;br&gt;ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="156.25" width="90" height="40" as="geometry" />
+          <mxGeometry x="900" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-6" value="限流/熔断Sentinel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="130" width="90" height="40" as="geometry" />
+          <mxGeometry x="1245" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-7" value="日志中心&lt;br&gt;ELK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="1245" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-8" value="文件服务&lt;br&gt;OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="410" width="90" height="40" as="geometry" />
+        <mxCell id="vgddumj_CpOu_7igaWPx-8" value="文件存储&lt;br&gt;OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-9" value="安全防护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="1245" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-10" value="分布式缓存&lt;br&gt;Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-30" width="90" height="40" as="geometry" />
+          <mxGeometry x="590" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-11" value="负载均衡&lt;br&gt;Ribbon" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-20" target="VbcEAXWBeEiYhWNy1sMn-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-14" value="链路跟踪Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="196.25" width="90" height="40" as="geometry" />
+          <mxGeometry x="1245" y="120" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -182,8 +188,8 @@
             <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-20" value="监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="410" width="120" height="220" as="geometry" />
+        <mxCell id="vgddumj_CpOu_7igaWPx-24" value="分库分表&lt;br&gt;Sharding-JDBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="440" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
