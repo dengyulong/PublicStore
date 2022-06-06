@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T13:54:47.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="oXZMfNry-iNIXFDkDl3_" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:04:09.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="yXrkxu-8lmE7hKGiHmg1" version="19.0.0" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
-    <mxGraphModel dx="2565" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vgddumj_CpOu_7igaWPx-25" value="基础组件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-25" value="基础组件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="660" y="392.5" width="730" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1105" y="242" width="279" height="115.5" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-20" value="监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-20" value="监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1209" y="-102.5" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务集群&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -87,7 +87,7 @@
             <mxPoint x="530" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VbcEAXWBeEiYhWNy1sMn-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-11" edge="1" target="VbcEAXWBeEiYhWNy1sMn-20">
+        <mxCell id="VbcEAXWBeEiYhWNy1sMn-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-11" target="VbcEAXWBeEiYhWNy1sMn-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="339" as="sourcePoint" />
             <mxPoint x="560" y="260" as="targetPoint" />
@@ -141,22 +141,22 @@
             <mxPoint x="984" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-1" value="请求过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-1" value="请求过滤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="320" width="80" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-3" value="消息中心&lt;br&gt;RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-3" value="消息中心&lt;br&gt;RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="833" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-4" value="分布式调度&lt;br&gt;XXJOB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-4" value="分布式调度&lt;br&gt;XXJOB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-5" value="搜索引擎&lt;br&gt;ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-5" value="搜索引擎&lt;br&gt;ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-6" value="限流/熔断Sentinel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-6" value="限流/熔断Sentinel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="-72.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgddumj_CpOu_7igaWPx-20" target="VbcEAXWBeEiYhWNy1sMn-55">
+        <mxCell id="vgddumj_CpOu_7igaWPx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgddumj_CpOu_7igaWPx-20" target="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1138" y="33" />
@@ -164,63 +164,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-7" value="日志中心&lt;br&gt;ELK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-7" value="日志中心&lt;br&gt;ELK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="47.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-8" value="文件存储&lt;br&gt;OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-8" value="文件存储&lt;br&gt;OSS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="941" y="411" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-9" value="安全防护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-9" value="安全防护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="107.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-10" value="分布式缓存&lt;br&gt;Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-10" value="分布式缓存&lt;br&gt;Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="727" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-11" value="负载均衡&lt;br&gt;Ribbon" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-20" target="VbcEAXWBeEiYhWNy1sMn-55">
+        <mxCell id="vgddumj_CpOu_7igaWPx-11" value="负载均衡&lt;br&gt;Ribbon" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-20" target="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="230" as="sourcePoint" />
             <mxPoint x="1050" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-14" value="链路跟踪Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-14" value="链路跟踪Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="-12.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="824" y="181" as="sourcePoint" />
             <mxPoint x="984" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-17" value="服务调用&lt;br&gt;Feign" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vgddumj_CpOu_7igaWPx-16">
+        <mxCell id="vgddumj_CpOu_7igaWPx-17" value="服务调用&lt;br&gt;Feign" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vgddumj_CpOu_7igaWPx-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1424" y="1" relative="1" as="geometry">
             <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-24" value="分库分表&lt;br&gt;Sharding-JDBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-24" value="分库分表&lt;br&gt;Sharding-JDBC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1285" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-27" value="限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-27" value="限流" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="242.5" width="80" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55">
+        <mxCell id="vgddumj_CpOu_7igaWPx-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="894" y="351" as="sourcePoint" />
             <mxPoint x="910" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgddumj_CpOu_7igaWPx-31" target="vgddumj_CpOu_7igaWPx-32">
+        <mxCell id="vgddumj_CpOu_7igaWPx-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgddumj_CpOu_7igaWPx-31" target="vgddumj_CpOu_7igaWPx-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-31" value="MySQL&amp;nbsp;&lt;br&gt;master" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-31" value="MySQL&amp;nbsp;&lt;br&gt;master" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1129" y="259.75" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-32" value="MySQL&amp;nbsp;&lt;br&gt;slave" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-32" value="MySQL&amp;nbsp;&lt;br&gt;slave" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1224" y="259.75" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-34" value="Mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="vgddumj_CpOu_7igaWPx-34" value="Mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1300" y="260" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.007;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55">
+        <mxCell id="vgddumj_CpOu_7igaWPx-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.007;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1064" y="330" as="sourcePoint" />
             <mxPoint x="1110" y="297" as="targetPoint" />
