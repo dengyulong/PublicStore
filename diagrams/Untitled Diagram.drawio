@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T04:45:00.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wftIqMOKRfXC9BKzz5RR" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T04:47:22.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QasJ5puwvtc1j6WErAr4" version="19.0.3" type="github">
   <diagram id="vszCD1J5VTGv5mpLLiHU" name="Page-1">
     <mxGraphModel dx="2391" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="250" y="27.5" width="60" height="445" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-25" value="基础组件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="400" y="670" width="310" height="330" as="geometry" />
+          <mxGeometry x="1380" y="-132.5" width="240" height="632.5" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="389.5" width="410" height="115.5" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-20" value="监控&amp;amp;保护" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1209" y="-102.5" width="120" height="270" as="geometry" />
+          <mxGeometry x="1397" y="139.75" width="210" height="270" as="geometry" />
         </mxCell>
         <mxCell id="VbcEAXWBeEiYhWNy1sMn-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务集群&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="744" y="154.37" width="320" height="165.63" as="geometry" />
@@ -150,36 +150,28 @@
           <mxGeometry x="547" y="320" width="80" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-3" value="消息中心&lt;br&gt;RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="710" width="90" height="40" as="geometry" />
+          <mxGeometry x="1508" y="-92.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-4" value="分布式调度&lt;br&gt;XXJOB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="850" width="90" height="40" as="geometry" />
+          <mxGeometry x="1400" y="47.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-5" value="搜索引擎&lt;br&gt;ElasticSearch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="780" width="90" height="40" as="geometry" />
+          <mxGeometry x="1506" y="-22.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-6" value="限流/熔断Sentinel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="-72.5" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vgddumj_CpOu_7igaWPx-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vgddumj_CpOu_7igaWPx-20" target="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1138" y="33" />
-              <mxPoint x="1138" y="180" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1409" y="182" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-7" value="日志中心&lt;br&gt;ELK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="47.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="1412" y="254.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-8" value="文件存储&lt;br&gt;OSS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="780" width="90" height="40" as="geometry" />
+          <mxGeometry x="1400" y="-22.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-9" value="安全防护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="107.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="1510" y="254.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-10" value="分布式缓存&lt;br&gt;Redis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="710" width="90" height="40" as="geometry" />
+          <mxGeometry x="1400" y="-92.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-11" value="负载均衡&lt;br&gt;Ribbon" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VbcEAXWBeEiYhWNy1sMn-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-14" value="链路跟踪Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="-12.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="1510" y="182" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -202,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-24" value="分库分表&lt;br&gt;Sharding-JDBC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="850" width="90" height="40" as="geometry" />
+          <mxGeometry x="1504" y="47.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vgddumj_CpOu_7igaWPx-27" value="限流(sentinel)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="242.5" width="80" height="47.5" as="geometry" />
@@ -233,6 +225,9 @@
         </mxCell>
         <mxCell id="KAhMGsQTQJFBlMktFEQ_-6" value="MySQL&amp;nbsp;&lt;br&gt;仓储DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="994" y="409.75" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="KAhMGsQTQJFBlMktFEQ_-8" value="告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
