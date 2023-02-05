@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T14:57:01.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sQWRkqUzwb22NmChZ8Of" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-05T14:58:49.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tWxnOmdyrS3JWW13niM9" version="20.8.5" type="github" pages="2">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -104,6 +104,12 @@
         </mxCell>
         <mxCell id="HNIS6teRyVrSFlzuS2O9-9" value="&lt;ul&gt;&lt;li&gt;完成精品【&lt;span style=&quot;background-color: initial;&quot;&gt;智慧心自助宣教】开发&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;确定后续精品&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="-525" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HNIS6teRyVrSFlzuS2O9-10" value="事务工作" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HNIS6teRyVrSFlzuS2O9-11" value="&lt;ul&gt;&lt;li&gt;1.0优化&lt;/li&gt;&lt;li style=&quot;&quot;&gt;技术支持&lt;/li&gt;&lt;li style=&quot;&quot;&gt;资源共享完成优化设计并上线生产&lt;/li&gt;&lt;li style=&quot;&quot;&gt;小灵机器人2.0完成测试、BUG修复、验收&lt;/li&gt;&lt;li style=&quot;&quot;&gt;心理健康管理平台1.0优化&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;技术预研：视频安全访问、日志中心&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-1130" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
