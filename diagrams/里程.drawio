@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T02:06:53.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vndb-GNccXGs9g3D7XNK" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T02:09:48.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6a6nz87U_U0Zo4uWDktd" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -211,10 +211,10 @@
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="-500" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-2" value="市场提出需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-2" value="市场人员提出需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="-390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-3" value="市场评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-3" value="市场部评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="-280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-4" value="确定需求范围" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
