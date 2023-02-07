@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T06:17:11.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ixwvmaqAQqkGZTl4vH3s" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:21:54.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bZhtawIOYJ7VVNG82d2v" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HMPO9-tc4L2ZMhgn9BAS" name="产品创新流程">
-    <mxGraphModel dx="1323" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,7 +286,7 @@
         <mxCell id="yYBBhZmj9ei-eU4L8uOR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-17" target="yYBBhZmj9ei-eU4L8uOR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-17" value="开发完成" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="h2i_MRR_Lf_ElyCeWX22-17" value="开发完成" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2i_MRR_Lf_ElyCeWX22-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="h2i_MRR_Lf_ElyCeWX22-12">
@@ -313,8 +313,22 @@
         <mxCell id="yYBBhZmj9ei-eU4L8uOR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="yYBBhZmj9ei-eU4L8uOR-2" target="yYBBhZmj9ei-eU4L8uOR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yYBBhZmj9ei-eU4L8uOR-2" value="验收" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yYBBhZmj9ei-eU4L8uOR-2" value="产品验收" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yYBBhZmj9ei-eU4L8uOR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yYBBhZmj9ei-eU4L8uOR-5" target="h2i_MRR_Lf_ElyCeWX22-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="840" />
+              <mxPoint x="240" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYBBhZmj9ei-eU4L8uOR-14" value="未通过，继续开发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="yYBBhZmj9ei-eU4L8uOR-13">
+          <mxGeometry x="0.1056" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yYBBhZmj9ei-eU4L8uOR-5" value="是否通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="310" y="790" width="100" height="100" as="geometry" />
