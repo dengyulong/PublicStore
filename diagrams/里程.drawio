@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T02:01:48.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BJLN6PqsYRXK27t07f73" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T02:02:49.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rwNuM9YOHZoBljO0Bmp_" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HMPO9-tc4L2ZMhgn9BAS" name="产品创新流程">
-    <mxGraphModel dx="1134" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,8 +301,19 @@
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-43" value="二次筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="-155" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-45" target="t7-ZYrwYlsd7oz9K7Ny5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-48" value="小改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t7-ZYrwYlsd7oz9K7Ny5-47">
+          <mxGeometry x="-0.1514" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-45" value="判断需求为小改动&lt;br&gt;还是大改动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="293.75" y="60" width="132.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-46" value="在1.0上解决" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="90" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
