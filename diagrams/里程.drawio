@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T03:14:55.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="m18oVzmWqhJZrrqtbQep" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T03:17:03.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4wlYZILde99CqKGz-ddR" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HMPO9-tc4L2ZMhgn9BAS" name="产品创新流程">
-    <mxGraphModel dx="2322" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,8 +309,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXtkEyw0OHY8rYPArG8x-2" value="产品创新工作流程机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-450" width="310" height="20" as="geometry" />
+        <mxCell id="rXtkEyw0OHY8rYPArG8x-2" value="产&lt;br&gt;品&lt;br&gt;创&lt;br&gt;新&lt;br&gt;工&lt;br&gt;作&lt;br&gt;流&lt;br&gt;程&lt;br&gt;机&lt;br&gt;制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-20" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
