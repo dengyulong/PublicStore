@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T03:40:16.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DknG7zXOPMdo2C4WnS52" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T06:00:08.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NFIO6y66Rdfs9bMMQKJl" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -211,32 +211,22 @@
         <mxCell id="h2i_MRR_Lf_ElyCeWX22-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-2" target="t7-ZYrwYlsd7oz9K7Ny5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-2" value="市场人员提出需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-390" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-3" target="t7-ZYrwYlsd7oz9K7Ny5-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-3" value="市场部评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-2" value="提出需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="-280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h2i_MRR_Lf_ElyCeWX22-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-3" value="评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-170" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2i_MRR_Lf_ElyCeWX22-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-4" target="t7-ZYrwYlsd7oz9K7Ny5-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-4" value="确定需求范围" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="-60" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-40" value="筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-265" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-42" target="t7-ZYrwYlsd7oz9K7Ny5-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-42" value="市场&amp;amp;研发评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-170" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-43" value="二次筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-155" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t7-ZYrwYlsd7oz9K7Ny5-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t7-ZYrwYlsd7oz9K7Ny5-45" target="t7-ZYrwYlsd7oz9K7Ny5-46">
           <mxGeometry relative="1" as="geometry" />
