@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T03:04:28.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="u40q52SpYMy1YaVp7CaS" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T03:04:38.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JMT2fL_wCdvZEEalPYTA" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HMPO9-tc4L2ZMhgn9BAS" name="产品创新流程">
-    <mxGraphModel dx="2423" dy="2417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3747" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,88 +308,6 @@
               <mxPoint x="585" y="610" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-21" target="h2i_MRR_Lf_ElyCeWX22-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-21" value="市场人员提出需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-670" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-22" target="h2i_MRR_Lf_ElyCeWX22-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-22" value="市场部评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-670" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-24" target="h2i_MRR_Lf_ElyCeWX22-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-24" value="市场&amp;amp;研发评估需求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-670" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-26" target="h2i_MRR_Lf_ElyCeWX22-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-26" value="确定需求范围" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="645" y="-670" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-28" target="h2i_MRR_Lf_ElyCeWX22-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-28" target="h2i_MRR_Lf_ElyCeWX22-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-28" value="判断需求为小改动&lt;br&gt;还是大改动" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="865" y="-700" width="132.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-30" target="h2i_MRR_Lf_ElyCeWX22-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-30" target="h2i_MRR_Lf_ElyCeWX22-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-30" value="在1.0上解决" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="861.25" y="-810" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-32" target="h2i_MRR_Lf_ElyCeWX22-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-32" target="h2i_MRR_Lf_ElyCeWX22-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-32" value="在2.0上解决" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-34" value="同步给创新小组" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-37" target="h2i_MRR_Lf_ElyCeWX22-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1111.25" y="-900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-37" value="开发完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="861.25" y="-930" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-41" target="h2i_MRR_Lf_ElyCeWX22-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-41" value="原型设计与评审" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-43" target="h2i_MRR_Lf_ElyCeWX22-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-43" value="UI设计与评审" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="-670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h2i_MRR_Lf_ElyCeWX22-45" target="h2i_MRR_Lf_ElyCeWX22-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1350" y="-780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h2i_MRR_Lf_ElyCeWX22-45" value="开发完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-810" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rXtkEyw0OHY8rYPArG8x-2" value="产品创新工作流程机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-30" y="-450" width="310" height="20" as="geometry" />
