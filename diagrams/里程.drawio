@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T07:35:49.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dQ3QzRJ5ub42IoNgAD5a" version="20.8.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-10T07:36:22.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nerkKvPMayZVhxRPGVRz" version="20.8.18" type="github" pages="5">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="7aWK1Ad3uNI484K8lMMB-15" value="&lt;ul&gt;&lt;li&gt;完成精品【家校共育】开发&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;云平台2.0底层技术架构改造方案设计&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;云平台2.0整体原型设计及整体UI设计&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;精品【心理健康管理平台】原型设计&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="285" width="310" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="7aWK1Ad3uNI484K8lMMB-16" value="&lt;ul&gt;&lt;li&gt;完整云平台2.0整体结构性开发&lt;/li&gt;&lt;li style=&quot;&quot;&gt;完成精品【心理健康管理平台】开发&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;搭建开发环境、生产试用环境&lt;/li&gt;&lt;li style=&quot;&quot;&gt;精品【校园心理辅导】原型设计及UI设计&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="7aWK1Ad3uNI484K8lMMB-16" value="&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;执行云平台2.0底层技术架构改造&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;精品【心理健康管理平台】UI设计&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;搭建开发环境、生产试用环境&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;精品【校园心理辅导】需求收集&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="143" width="270" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7aWK1Ad3uNI484K8lMMB-17" value="&lt;ul&gt;&lt;li&gt;完成精品【校园心理辅导&lt;span style=&quot;background-color: initial;&quot;&gt;】开发&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;精品【智慧心自助宣教】需求收集&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;精品【智慧心自助宣教】原型设计及UI设计&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
