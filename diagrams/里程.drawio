@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T01:36:26.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KkSM_QWQa1eQL25kiYY4" version="20.8.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-10T01:53:28.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lgovZRZebznTkQ3nd_0Q" version="20.8.18" type="github" pages="4">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
           <mxGeometry x="130" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gANutdK47ngpin8Y0Mue-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-400" width="430" height="370" as="geometry" />
+          <mxGeometry x="400" y="-400" width="430" height="260" as="geometry" />
         </mxCell>
         <mxCell id="gANutdK47ngpin8Y0Mue-5" value="说明&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、提出需求：由产品创新小组各成员提出需求&lt;br&gt;&lt;br&gt;2、评估需求：组织会议对需求进行评估和筛选，明确需要更改的需求范围&lt;br&gt;&lt;br&gt;3、确定需求范围： 最终要确定需要更改的需求范围，研发排期进行解决&lt;br&gt;&lt;br&gt;4、判断需求为小改动还是大改动：由研发部门判断需求是小改动还是大改动&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于小改动需求如： 改文字、改图标等直接在1.0版本上进行修改，开发完成同步给创新小组&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于大改动需求如：页面布局的调整，需要增加新功能等，安排在2.0版本上进行解决，并需要先设计原型、UI并组织进行评审，开发完成需要进行产品的验收工作，验收通过则进行产品版本的发布，验收不通过继续开发，直到验收通过&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="401.25" y="-395" width="418.75" height="245" as="geometry" />
