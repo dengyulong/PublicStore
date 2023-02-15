@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T08:06:31.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iz8180vMWClE6-eAXyw6" version="20.8.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-15T06:46:03.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8369Q6MQSMaL8tjyJDXI" version="20.8.19" type="github" pages="5">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HMPO9-tc4L2ZMhgn9BAS" name="产品创新流程">
-    <mxGraphModel dx="1984" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,10 +439,10 @@
         <mxCell id="yYBBhZmj9ei-eU4L8uOR-15" value="产品发布" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#0050ef;fontColor=#ffffff;strokeWidth=2;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="130" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gANutdK47ngpin8Y0Mue-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="gANutdK47ngpin8Y0Mue-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="380" y="-340" width="430" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="gANutdK47ngpin8Y0Mue-5" value="说明&lt;br&gt;&lt;br&gt;1、提出需求：&lt;span style=&quot;font-weight: normal;&quot;&gt;由产品创新小组各成员提出需求&lt;/span&gt;&lt;br&gt;&lt;br&gt;2、评估需求：&lt;span style=&quot;font-weight: normal;&quot;&gt;组织会议对需求进行评估和筛选，明确需要更改的需求范围&lt;br&gt;&lt;br&gt;3、&lt;/span&gt;确定需求范围&lt;span style=&quot;font-weight: normal;&quot;&gt;： 最终要明确需要更改的需求范围，研发排期进行解决&lt;br&gt;&lt;br&gt;4、&lt;/span&gt;判断需求为小改动还是大改动&lt;span style=&quot;font-weight: normal;&quot;&gt;：由研发部门判断需求是小改动还是大改动&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于小改动需求如： 改文字、改图标等直接在1.0版本上进行修改，开发完成同步给创新小组&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于大改动需求如：页面布局的调整，需要增加新功能等，安排在2.0版本上进行解决，并需要先设计原型、UI并组织进行评审，开发完成需要进行产品的验收工作，验收通过则进行产品版本的发布，验收不通过继续开发，直到验收通过&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="gANutdK47ngpin8Y0Mue-5" value="说明&lt;br&gt;&lt;br&gt;1、提出需求：&lt;span style=&quot;font-weight: normal;&quot;&gt;由产品创新小组各成员提出需求&lt;/span&gt;&lt;br&gt;&lt;br&gt;2、评估需求：&lt;span style=&quot;font-weight: normal;&quot;&gt;组织会议对需求进行评估和筛选，明确需要更改的需求范围&lt;br&gt;&lt;br&gt;3、&lt;/span&gt;确定需求范围&lt;span style=&quot;font-weight: normal;&quot;&gt;： 最终要明确需要更改的需求范围，研发排期进行解决&lt;br&gt;&lt;br&gt;4、&lt;/span&gt;判断需求为小改动还是大改动&lt;span style=&quot;font-weight: normal;&quot;&gt;：由研发部门判断需求是小改动还是大改动&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于小改动需求如： 改文字、改图标等直接在1.0版本上进行修改，开发完成同步给创新小组&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;对于大改动需求如：页面布局的调整，需要增加新功能等，安排在2.0版本上进行解决，并需要先设计原型、UI并组织进行评审，开发完成需要进行产品的验收工作，验收通过则进行产品版本的发布，验收不通过继续开发，直到验收通过&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="381.25" y="-335" width="418.75" height="245" as="geometry" />
         </mxCell>
       </root>
