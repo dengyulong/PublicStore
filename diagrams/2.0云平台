@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T02:01:25.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="s5ao32pb-VRlxzgptDUy" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T02:02:25.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FxDZ6mgl4bdwxfZ-jWQK" version="21.1.7" type="github">
   <diagram name="第 1 页" id="PM5vwUVI_lvZHzoTnq4T">
-    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uh2vH7VJPANHw4mI_39h-59" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tablet_ipad;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="47" width="39" height="52" as="geometry" />
+          <mxGeometry x="559.5" y="47" width="39" height="52" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-60" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="48" width="27.5" height="52" as="geometry" />
+          <mxGeometry x="470.5" y="48" width="27.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-63" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="58" height="48" as="geometry" />
+          <mxGeometry x="220" y="50" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-64" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.management_console;" vertex="1" parent="1">
-          <mxGeometry x="200" y="48" width="58" height="48" as="geometry" />
+          <mxGeometry x="340" y="48" width="58" height="48" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-68" value="PC端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="84" y="101" width="50" height="15" as="geometry" />
+          <mxGeometry x="224" y="101" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-69" value="移动端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="101" width="50" height="15" as="geometry" />
+          <mxGeometry x="460" y="101" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-70" value="终端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="101" width="50" height="15" as="geometry" />
+          <mxGeometry x="554" y="101" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uh2vH7VJPANHw4mI_39h-71" value="大屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="204" y="101" width="50" height="15" as="geometry" />
+          <mxGeometry x="344" y="101" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
