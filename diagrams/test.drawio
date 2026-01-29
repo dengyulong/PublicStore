@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="7fUG6U2VcTDg5r49fcoG">
-    <mxGraphModel dx="1072" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,17 +19,17 @@
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全负责人&lt;br&gt;邓玉龙" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全管理员&lt;br&gt;邓玉龙" vertex="1">
-          <mxGeometry height="60" width="120" x="220" y="390" as="geometry" />
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全管理员&lt;br&gt;李望州" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统管理员&lt;br&gt;邓玉龙" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="390" as="geometry" />
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统管理员&lt;br&gt;方超" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="审计管理员&lt;br&gt;邓玉龙" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="390" as="geometry" />
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="审计管理员&lt;br&gt;刘文敏" vertex="1">
+          <mxGeometry height="60" width="120" x="474" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络管理员&lt;br&gt;邓玉龙" vertex="1">
-          <mxGeometry height="60" width="120" x="660" y="390" as="geometry" />
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络管理员&lt;br&gt;林茗轩" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
