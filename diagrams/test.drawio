@@ -7,6 +7,9 @@
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="公司最高管理者&lt;br&gt;达小中" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全负责人&lt;br&gt;&lt;span data-kimi-id=&quot;1769674694903&quot; data-kimi-disabled=&quot;false&quot; data-kimi-recommend=&quot;false&quot; style=&quot;cursor: pointer; border-bottom: 2px dotted rgb(51, 153, 255);&quot;&gt;邓玉龙&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
