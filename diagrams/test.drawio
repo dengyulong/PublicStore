@@ -13,11 +13,20 @@
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-4" edge="1" parent="1" source="FA3fuXs3Dc7JLhJVs06P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FA3fuXs3Dc7JLhJVs06P-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-7" edge="1" parent="1" source="FA3fuXs3Dc7JLhJVs06P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FA3fuXs3Dc7JLhJVs06P-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全负责人&lt;br&gt;邓玉龙" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="230" as="geometry" />
         </mxCell>
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全管理员&lt;br&gt;邓玉龙" vertex="1">
-          <mxGeometry height="60" width="120" x="234" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="220" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统管理员&lt;br&gt;邓玉龙" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="审计管理员&lt;br&gt;邓玉龙" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
