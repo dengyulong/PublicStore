@@ -28,6 +28,9 @@
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="审计管理员&lt;br&gt;邓玉龙" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络管理员&lt;br&gt;邓玉龙" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
