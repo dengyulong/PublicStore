@@ -1,14 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="第 1 页" id="7fUG6U2VcTDg5r49fcoG">
-    <mxGraphModel dx="1295" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-5" edge="1" parent="1" source="FA3fuXs3Dc7JLhJVs06P-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FA3fuXs3Dc7JLhJVs06P-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="公司最高管理者&lt;br&gt;达小中" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全负责人&lt;br&gt;&lt;span data-kimi-id=&quot;1769674694903&quot; data-kimi-disabled=&quot;false&quot; data-kimi-recommend=&quot;false&quot; style=&quot;cursor: pointer; border-bottom: 2px dotted rgb(51, 153, 255);&quot;&gt;邓玉龙&lt;/span&gt;" vertex="1">
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-4" edge="1" parent="1" source="FA3fuXs3Dc7JLhJVs06P-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FA3fuXs3Dc7JLhJVs06P-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全负责人&lt;br&gt;邓玉龙" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FA3fuXs3Dc7JLhJVs06P-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="安全管理员&lt;br&gt;邓玉龙" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
