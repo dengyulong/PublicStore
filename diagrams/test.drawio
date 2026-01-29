@@ -25,24 +25,6 @@
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络管理员&lt;br&gt;林茗轩" vertex="1">
           <mxGeometry height="60" width="120" x="640" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-11" parent="1" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" value="Vertical Tree Layout" vertex="1">
-          <mxGeometry height="190" width="280" x="150" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-12" parent="FA3fuXs3Dc7JLhJVs06P-11" style="whiteSpace=wrap;html=1;" value="Root" vertex="1">
-          <mxGeometry height="40" width="100" x="90" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-13" parent="FA3fuXs3Dc7JLhJVs06P-11" style="whiteSpace=wrap;html=1;" value="Child 1" vertex="1">
-          <mxGeometry height="40" width="100" x="20" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-14" edge="1" parent="FA3fuXs3Dc7JLhJVs06P-11" source="FA3fuXs3Dc7JLhJVs06P-12" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" target="FA3fuXs3Dc7JLhJVs06P-13" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-15" parent="FA3fuXs3Dc7JLhJVs06P-11" style="whiteSpace=wrap;html=1;" value="Child 2" vertex="1">
-          <mxGeometry height="40" width="100" x="160" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="FA3fuXs3Dc7JLhJVs06P-16" edge="1" parent="FA3fuXs3Dc7JLhJVs06P-11" source="FA3fuXs3Dc7JLhJVs06P-12" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" target="FA3fuXs3Dc7JLhJVs06P-15" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FA3fuXs3Dc7JLhJVs06P-17" edge="1" parent="1" source="FA3fuXs3Dc7JLhJVs06P-2" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FA3fuXs3Dc7JLhJVs06P-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="414" y="340" as="sourcePoint" />
