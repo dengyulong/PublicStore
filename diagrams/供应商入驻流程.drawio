@@ -105,22 +105,22 @@
           <mxGeometry height="70" width="140" x="48" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="2. 店铺信息填写" vertex="1">
-          <mxGeometry height="70" width="140" x="248" y="50" as="geometry" />
+          <mxGeometry height="70" width="140" x="279" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="3. 商家类型选择" vertex="1">
-          <mxGeometry height="70" width="140" x="448" y="50" as="geometry" />
+          <mxGeometry height="70" width="140" x="509" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="4. 签约材料信息填写" vertex="1">
-          <mxGeometry height="70" width="140" x="648" y="50" as="geometry" />
+          <mxGeometry height="70" width="140" x="740" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-26" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="5. 上传资质证书" vertex="1">
-          <mxGeometry height="70" width="140" x="648" y="190" as="geometry" />
+          <mxGeometry height="70" width="140" x="740" y="190" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-34" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1zwjNDX0IHW68Ld0ruWd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1zwjNDX0IHW68Ld0ruWd-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-27" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="6. 平台审核" vertex="1">
-          <mxGeometry height="70" width="140" x="448" y="190" as="geometry" />
+          <mxGeometry height="70" width="140" x="509" y="190" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1zwjNDX0IHW68Ld0ruWd-22" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;rounded=0;" target="1zwjNDX0IHW68Ld0ruWd-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-33" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="7. 入驻完成" vertex="1">
-          <mxGeometry height="70" width="140" x="228" y="190" as="geometry" />
+          <mxGeometry height="70" width="140" x="279" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
