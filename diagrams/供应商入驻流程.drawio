@@ -107,7 +107,7 @@
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="2. 店铺信息填写" vertex="1">
           <mxGeometry height="70" width="140" x="248" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="1zwjNDX0IHW68Ld0ruWd-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="3. 执行开发" vertex="1">
+        <mxCell id="1zwjNDX0IHW68Ld0ruWd-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="3. 商家类型选择" vertex="1">
           <mxGeometry height="70" width="140" x="448" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="4. 质量检测" vertex="1">
