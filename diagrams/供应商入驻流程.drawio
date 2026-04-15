@@ -101,7 +101,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zwjNDX0IHW68Ld0ruWd-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="1. 启动阶段" vertex="1">
+        <mxCell id="1zwjNDX0IHW68Ld0ruWd-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="1. 注册账号" vertex="1">
           <mxGeometry height="70" width="140" x="48" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1zwjNDX0IHW68Ld0ruWd-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F6D49B;strokeColor=#000000;fontStyle=1;fontSize=14;" value="2. 规划分析" vertex="1">
